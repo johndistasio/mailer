@@ -4,8 +4,8 @@ but without the need for an external configuration file.
 
 ### TODO
 * Build system (autotools?)
-* ~~Print usage with -h and --help flags~~
-* ~~SMTP with STARTTLS with cli for server, port, to, from, subject, body~~
+* ~~Print usage with -h and --help flags~~ 0.1.0
+* ~~SMTP with STARTTLS with cli for server, port, to, from, subject, body~~ 0.1.0
 * Verbose flag
 * Optionally read SMTP server password from file
 * Multiple recipients
